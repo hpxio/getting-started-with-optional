@@ -9,5 +9,4 @@ public class GettingStartedWithOptionalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GettingStartedWithOptionalApplication.class, args);
 	}
-
 }
